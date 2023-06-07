@@ -253,7 +253,7 @@ Lưu ý ở challenge này ta phải bổ sung tham số epsilon cho hàm small_
 
 Trong phần này, ta sử dụng các lattice để phân tích factor N nếu biết một phần lớn các bit liền kề của một trong các hệ số (không làm mất tính tổng quát).
 
-![Untitled](Coppersmith's%20attack%2014eaf42abd6e4db39c814398fd6eb8fa/Untitled.png)
+![Untitled](Untitled.png)
 
 Vấn đề cần giải quyết: Factor N = qp khi đã biết các `most significant bits` liền kề của p 
 
