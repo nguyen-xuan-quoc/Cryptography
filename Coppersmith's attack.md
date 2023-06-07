@@ -45,7 +45,7 @@ Hơn nữa, giả sử có một nghiệm nguyên x0 cho phương trình modulo 
 Định lý: Xét g(x) là đa thức một biến có n đơn thức (đa thức chỉ có một số hạng) và m là một số nguyên dương. Nếu chúng ta có một số giới hạn X và các phương trình sau đúng:
 
 $$
-g(x_0) \equiv 0 \mod \N^m, |x_0| \leq X 
+g(x_0) \equiv 0 \mod\ N^m, |x_0| \leq X 
 $$
 
 $$
@@ -67,7 +67,7 @@ $$
 Vì $g(x)$ nằm trên mạng tinh thể nên chúng ta biết rằng
 
 $$
-g(x_0) \equiv 0 \mod \N^m \\
+g(x_0) \equiv 0 \mod \ N^m \\
 |x|  \leq X\\
 deg(g) = n\\
 ||g(xX)|| < \frac{N^m}{\sqrt{n+1}}
@@ -78,7 +78,7 @@ Theo các kết quả từ định lý trên, chúng ta có thể kết luận r
 Ta có thể dễ dàng tạo các đa thức cùng root $x_0$ trên $N^m$. Xét họ các đa thức $g_{i,j}(x)$
 
 $$
-g_{i,j}(x_0) \equiv x^j \mod \N^{m-i} f^i(x) \\
+g_{i,j}(x_0) \equiv x^j \mod \ N^{m-i} f^i(x) \\
 0  \leq i < m\\
 0  \leq j < deg(f)\\
 $$
@@ -106,7 +106,7 @@ Khóa công khai của Bob là `(N,3)`, trong đó độ dài bit của N là 51
 Mục tiêu sẽ là tìm nghiệm x của đa thưc có dạng như sau:
 
 $$
-(a+x)^2 -c=0\mod\N
+(a+x)^2 -c=0\mod\ N
 $$
 
 Ta sẽ tách phần đầu của thông điệp ra và thêm các bytes b’\x00’ vào cuối.
