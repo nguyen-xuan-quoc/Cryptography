@@ -369,8 +369,8 @@ Giaỉ thích: `f.small_roots(X=2^240, beta = 0.2, epsilon=1/200)`
 Tìm x sao cho:
 
 $$
-x < X\\
-x > N^{0.2}
+x < X \\
+x > N^{0.2} \\
 $$
 
 Và giảm nhỏ `epsilon` để tăng giới hạn tìm kiếm của thuật toán.
