@@ -69,7 +69,9 @@ $$
 x = (x1,x2,x3,...,xn) =  \begin{bmatrix}
    x1 \\
    y2 \\ 
-   x3 \\...\\xn
+   x3 \\
+   ... \\
+   xn \\
 \end{bmatrix}
 $$
 
