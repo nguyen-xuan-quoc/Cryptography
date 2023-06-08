@@ -67,10 +67,16 @@ $$
 Vì $g(x)$ nằm trên mạng tinh thể nên chúng ta biết rằng
 
 $$
-g(x_0) \equiv 0 \mod \ N^m \\
-|x|  \leq X\\
-deg(g) = n\\
-||g(xX)|| < \frac{N^m}{\sqrt{n+1}}
+g(x_0) \equiv 0 \ mod \ N^m \\
+$$
+$$
+|x|  \leq X \\
+$$
+$$
+deg(g) = n \\
+$$
+$$
+||g(xX)|| < \frac{N^m}{\sqrt{n+1}} \\
 $$
 
 Theo các kết quả từ định lý trên, chúng ta có thể kết luận rằng g(x) = 0 đúng với các số nguyên.
@@ -370,6 +376,8 @@ Tìm x sao cho:
 
 $$
 x < X,  \\
+$$
+$$
 x > N^{0.2} \\
 $$
 
