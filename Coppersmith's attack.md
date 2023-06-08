@@ -88,7 +88,13 @@ Ta có thể dễ dàng tạo các đa thức cùng root $x_0$ trên $N^m$. Xét
 
 $$
 g_{i,j}(x_0) \equiv x^j \mod \ N^{m-i} f^i(x) \\
+$$
+
+$$
 0  \leq i < m\\
+$$
+
+$$
 0  \leq j < deg(f)\\
 $$
 
