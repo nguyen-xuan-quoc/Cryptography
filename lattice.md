@@ -203,10 +203,12 @@ $$
 
 Ta có thể dễ dàng nhận thấy đây là 1 không gian vector, trong đó vector 0 là 
 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 0&0 \\
 0&0
-\end{bmatrix}$
+\end{bmatrix}
+$$
 
 Cách chứng minh tương tự cũng sẽ giúp ta chứng minh tập hợp các đa thức với hệ số thực là một không gian vector.
 
